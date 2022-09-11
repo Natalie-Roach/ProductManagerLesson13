@@ -11,14 +11,14 @@ public class Smartphone extends Product {
         this.maker = maker;
     }
 
-    //getter
-    public String getMaker() {
-        return maker;
-    }
-
-    //setter
-    public void setMaker(String maker) {
-        this.maker = maker;
-    }
+//getter
+//    public String getMaker() {
+//        return maker;
+//    }
+//
+//    //setter
+//    public void setMaker(String maker) {
+//        this.maker = maker;
+//    }
 
 }

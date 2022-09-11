@@ -11,14 +11,14 @@ public class Book extends Product {
         this.author = author;
     }
 
-    //getter
-    public String getAuthor() {
-        return author;
-    }
-
-    //setter
-    public void setAuthor(String author) {
-        this.author = author;
-    }
+//    //getter
+//    public String getAuthor() {
+//        return author;
+//    }
+//
+//    //setter
+//    public void setAuthor(String author) {
+//        this.author = author;
+//    }
 
 }
